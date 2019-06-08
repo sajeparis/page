@@ -6,8 +6,3 @@ subheadline: "Layouts of Feeling Responsive"
 header: no
 permalink: "/partenaires/"
 ---
-<ul>
-    {% for post in site.categories.design %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
