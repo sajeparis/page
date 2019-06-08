@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "Contribuer"
+title: "Comment nous aider?"
 header: no
 permalink: "/contribuer/"
 ---

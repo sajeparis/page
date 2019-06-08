@@ -1,8 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Theme Documentation"
-subheadline: "How to use Feeling Responsive"
-teaser: "The documentation is a work in progress..."
+title: "Que faisons-nous?"
 permalink: "/missions/"
 header: no
 ---

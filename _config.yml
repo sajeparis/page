@@ -17,7 +17,8 @@ slogan: 'Association loi 1901'
 description: 'Le SAJE est une asso etc'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Ce site est basé sur le framework <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> sajeparis@gmail.com tel 07 65 69 65 65.</p>'
+credits: 'sajeparis@gmail.com <br/> +33 7 65 69 65 65</p>'
+#<p>Ce site est basé sur le framework <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> 
 
 # Main author of the website
 # See > authors.yml

@@ -1,11 +1,8 @@
 ---
 layout: page
 show_meta: false
-title: "Getting Started"
-subheadline: "A Step-by-Step Guide"
-teaser: "This step-by-step guide helps you to customize Feeling Responsive to your needs."
-header:
-   image_fullwidth: "header_homepage_13.jpg"
+title: "Qui sommes-nous"
+header: no
 permalink: "/equipe/"
 ---
 Entre l'été 2017 et l'hiver 2018, Hannah, Malika, Karima, Jeanne, Sophie et Laurence se rencontrent, puis se croisent régulièrement sur le terrain, auprès des réfugiés. Elles viennent toutes d’horizons différents et leur travail avec les populations migrantes représente des années d’expérience (depuis 2009 pour Malika).
